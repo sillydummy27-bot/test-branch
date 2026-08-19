@@ -9,3 +9,8 @@ git add
 
 
 when both add and status shows valid output then you can git commit to the main branch
+
+right?
+
+dsfdsfd
+
